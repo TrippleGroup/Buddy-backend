@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "Backend API for Tripple Hydro and Energy’s Buddy AI assistant",
   "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "openai": "^4.20.1"
   }
 }
