@@ -1,0 +1,9 @@
+{
+  "name": "buddy-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Tripple Hydro and Energy’s Buddy AI assistant",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
